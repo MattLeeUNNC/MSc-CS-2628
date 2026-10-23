@@ -1,4 +1,5 @@
 ---
-title: Wiki
+title: Misc
 ---
+
 🚧 UNDER CONSTRUCTION
