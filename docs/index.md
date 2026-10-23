@@ -31,7 +31,7 @@ Nothing here now.
 ### Life
 
 <div class="grid cards" markdown>
-- :lucide-bus: [Shuttle Operation Schedule](./wiki/shuttle-operation-schedule)
+- :lucide-bus: [Shuttle Operation Schedule](https://abotw.github.io/MSc-CS-2628/Wiki/Shuttle%20Operation%20Schedule/)
 - :lucide-house: [Student Accommodation](https://accommodation.nottingham.edu.cn/#/login)
 - :lucide-map: [Map of the University Campus](https://www.nottingham.edu.cn/en/about/documents/campus-map/unnc-campus-map-20251016.pdf)
 - :lucide-school: [Students Hub](https://www.nottingham.edu.cn/en/info-hub/students.aspx)
