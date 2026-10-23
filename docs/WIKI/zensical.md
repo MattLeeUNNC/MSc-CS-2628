@@ -2,8 +2,6 @@
 icon: lucide/rocket
 ---
 
-# Zensical
-
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Commands

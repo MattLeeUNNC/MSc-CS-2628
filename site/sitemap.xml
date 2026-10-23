@@ -70,13 +70,16 @@
         <loc>https://www.example.com/People/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/WIKI/</loc>
+        <loc>https://www.example.com/Wiki/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/WIKI/markdown/</loc>
+        <loc>https://www.example.com/Wiki/Markdown%20in%205min/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/WIKI/zensical/</loc>
+        <loc>https://www.example.com/Wiki/Shuttle%20Operation%20Schedule/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/Wiki/Zensical/</loc>
       </url>
       <url>
         <loc>https://www.example.com/feedback/</loc>

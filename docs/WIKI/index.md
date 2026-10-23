@@ -1,4 +1,4 @@
 ---
-title: WIKI
+title: Wiki
 ---
 🚧 UNDER CONSTRUCTION
