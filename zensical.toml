@@ -1,13 +1,13 @@
 [project]
 site_url = "https://www.example.com/"
 site_name = "MSc CS 26-28 Homepage"
-# site_description = "Your project description"
+site_description = "MSc CS 26-28 Homepage"
 # site_author = "Your name"
 
 # copyright = "Copyright &copy; 2026 Your name"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/abotw/MSc-CS-2628"
+repo_name = "abotw/MSc-CS-2628"
 # edit_uri = "edit/main/docs/"
 
 # nav = [
@@ -20,7 +20,7 @@ site_name = "MSc CS 26-28 Homepage"
 
 [project.theme]
 # variant = "classic"
-# custom_dir = "overrides"
+custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "en"
 features = [
