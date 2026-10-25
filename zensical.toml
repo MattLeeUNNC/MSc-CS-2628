@@ -15,7 +15,7 @@ repo_name = "abotw/MSc-CS-2628"
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
 
-# extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
@@ -68,7 +68,7 @@ toggle.name = "Switch to light mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
-scheme = "default"
+scheme = "unnc"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
