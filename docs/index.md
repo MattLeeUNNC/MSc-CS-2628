@@ -1,11 +1,13 @@
 ---
 title: Dashboard
-last: 2026-10-23
+last: 2026-10-27
 ---
 
 ## News
 
-Nothing here now.
+!!! tip "Activity 01: Desktop Museum"
+
+    Please refer to [this page](./Activities/A01-DesktopMuseum) to get detailed instructions. (2026-10-27)
 
 ## Quick Links
 
