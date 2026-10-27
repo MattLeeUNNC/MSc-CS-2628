@@ -5,6 +5,7 @@ last: 2026-10-27
 author:
   - Mengqi Li
 ---
+![](Attachments/a1-poster.png)
 
 ## One desktop, one story, one class memory
 
