@@ -20,7 +20,7 @@ There's one extra challenge: **we'll build this collection together using GitHub
 
 Never used Git? No problem. Never opened a terminal? That's fine, too. You don't need to know how to code to participate.
 
-By the end of this activity, you'll have contributed to a real collaborative project, learned a little about how developers work together, and helped create a memory of our class.
+By the end of this activity, you'll have contributed to a **REAL collaborative project**, learned a little about how developers work together, and helped create a memory of our class.
 
 ## 1. The mission
 
@@ -28,14 +28,14 @@ Each student contributes one personal folder containing:
 
 - A picture of their desktop setup.
     
-- A Markdown file containing a short description and a few comments.
+- A Markdown file containing a short description and a few comments. (I recommend you give a **bilingual** version)
     
 
 Our class repository is:
 
 - **GitHub repository:** [MSc-CS-2628](https://github.com/abotw/MSc-CS-2628)
     
-- **Class website:** [UNNC PGT Class Homepage](https://abotw.github.io/MSc-CS-2628/)
+- **Class website:** [MSc CS 26-28 Homepage](https://abotw.github.io/MSc-CS-2628/)
     
 - **Contribution directory:** `docs/Activities/A01-DesktopMuseum/`
     
@@ -49,7 +49,7 @@ A01-DesktopMuseum/
     └── desktop-yournameorstudentid.jpg (all in lowercase)
 ```
 
-The folder name can be your real name or your student ID (if you don't want to publish you real name in the Internet). Please consider your privacy before using your real name or student ID in a public repository.
+The folder name can be your real name (like `MattLee` or `SanZhang`, it's recommended) or your student ID (if you don't want to publish you real name on the Internet). Please consider your privacy before using your real name or student ID in a public repository.
 
 The workflow is simple:
 
@@ -59,7 +59,7 @@ The workflow is simple:
     
 3. Upload your files to GitHub.
     
-4. Submit a Pull Request.
+4. Submit a Pull Request (PR).
     
 5. Wait for your contribution to be reviewed and merged.
     
@@ -74,9 +74,9 @@ You don't need to memorise these definitions. They're here to make the following
 
 | Term              | In plain English                                                    |
 | ----------------- | ------------------------------------------------------------------- |
-| Repository        | The online project containing our class website and its files.      |
-| Fork              | Your own copy of the class repository on GitHub.                    |
-| Branch            | A separate workspace for preparing your changes.                    |
+| Repository (Repo) | The online project containing our class website and its files.      |
+| Fork              | Your own **copy** of the class repository on GitHub.                |
+| Branch            | A **separate workspace** for preparing your changes.                |
 | Commit            | A saved set of changes.                                             |
 | Push              | Uploading your saved changes from your computer to GitHub.          |
 | Pull Request (PR) | A request asking the project owner to accept your changes.          |
@@ -91,22 +91,17 @@ You make your own page, submit it for inclusion, and the organiser adds it to th
 
 Your first task is the most enjoyable: show us your workspace!
 
-You can photograph your physical desk or capture a screenshot of your digital desktop.
+You can photograph your **physical desk** or capture a screenshot of your **digital desktop**.
 
 Ideas include:
 
 - Your monitor, laptop, keyboard, mouse, and accessories.
-    
 - Your favourite wallpaper or desktop organisation.
-    
 - Your mechanical keyboard, keycaps, or mousepad.
-    
 - Plants, figures, collectibles, or other decorations.
-    
 - A minimalist workspace or a multi-monitor setup.
-    
 - A laptop-only setup that travels everywhere with you.
-- And anything can show your personality.
+- And anything which can show your personality.
 
 ### Image guidelines
 
@@ -147,7 +142,7 @@ Markdown is just a text file with a few simple formatting symbols. You don't nee
 
 You can use VS Code, a plain-text editor, or any other editor that lets you save a file with the `.md` extension.
 
-Copy this template:
+Just copy this template:
 
 ```
 ---
@@ -275,11 +270,12 @@ On the original repository page, click **Fork** near the top.
 
 ![](Attachments/fork.png)
 
-![](Attachments/create-fork.png)
-
 A fork is your personal copy of the class project. It lets you prepare changes without directly modifying the original repository.
 
 Follow GitHub's prompts to create your fork.
+
+![](Attachments/create-fork.png)
+
 
 You will now have a repository under your own GitHub username, with a name such as `MSc-CS-2628`.
 
@@ -334,7 +330,7 @@ Paste your completed Markdown content into the editor.
 
 ![](Attachments/add-md-content.png)
 
-Then click the green "Commit changes..." button, enter a commit message like this:
+Then click the green "**Commit changes...**" button, enter a commit message like this:
 
 ```
 add mattlee desktop contribution
@@ -360,11 +356,15 @@ Choose **Add file → Upload files**.
 
 Upload your image, for example:
 
+![](Attachments/upload-file.png)
+
 ```
 desktop-mattlee.jpg
 ```
 
 Commit the upload to the same branch you used in the previous step.
+
+![](Attachments/upload-file-commit.png)
 
 Your folder should now contain:
 
@@ -374,14 +374,14 @@ MattLee/
 └── desktop-mattlee.jpg
 ```
 
-Replace `MattLee` with your own folder name.
-
 #### A7. Create a Pull Request
 
 Open your fork's main page. GitHub may display a **Contribute** button after you push or commit a branch.
 
 ![](Attachments/open-pr.png)
 
+
+![](Attachments/edit-pr.png)
 
 Check these settings carefully:
 
@@ -407,13 +407,10 @@ You can use this description:
 ```
 I have added my desktop picture and comments.
 
-Contribution folder:
-docs/Activities/A01-DesktopMuseum/MattLee/
+Contribution folder: docs/Activities/A01-DesktopMuseum/MattLee/
 ```
 
 Click **Create pull request**.
-
-![](Attachments/edit-pr.png)
 
 Congratulations! Your contribution has been submitted.
 
@@ -421,7 +418,7 @@ Congratulations! Your contribution has been submitted.
 
 The organiser can now review your changes and merge them into the class repository.
 
-### Method B — GitHub Desktop (recommended if you want to learn Git)
+### Method B — GitHub Desktop
 
 If you prefer a desktop application, GitHub Desktop provides a graphical interface for working with Git.
 
@@ -503,7 +500,7 @@ Check that the target repository is `abotw/MSc-CS-2628` and the base branch is `
 
 Submit your PR and wait for the organiser to review it.
 
-## 7. Step 5 — Check your Pull Request
+## 7. Step 5 — Check your PR
 
 After submitting your PR, open it on GitHub and check the **Files changed** tab.
 
