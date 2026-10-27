@@ -7,6 +7,9 @@
         <loc>https://www.example.com/Activities/</loc>
       </url>
       <url>
+        <loc>https://www.example.com/Activities/A01-DesktopMuseum/</loc>
+      </url>
+      <url>
         <loc>https://www.example.com/Modules/</loc>
       </url>
       <url>
@@ -74,6 +77,9 @@
       </url>
       <url>
         <loc>https://www.example.com/Wiki/Markdown%20in%205min/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/Wiki/Resources%20for%20Non-CS%20Students/</loc>
       </url>
       <url>
         <loc>https://www.example.com/Wiki/Shuttle%20Operation%20Schedule/</loc>

@@ -1,5 +1,7 @@
 ---
 title: Activities
-last: 2026-10-23
+created: 2026-10-27
+last: 2026-10-27
 ---
-🚧 UNDER CONSTRUCTION
+
+1. [Activity 01: Desktop Museum](A01-DesktopMuseum/index.md)
