@@ -35,13 +35,13 @@ Our class repository is:
     
 - **Class website:** [UNNC PGT Class Homepage](https://abotw.github.io/MSc-CS-2628/)
     
-- **Contribution directory:** `docs/Activities/A01-DesktopMuseem/`
+- **Contribution directory:** `docs/Activities/A01-DesktopMuseum/`
     
 
 Your finished contribution will look like this:
 
 ```
-A01-DesktopMuseem/
+A01-DesktopMuseum/
 └── YourNameOrStudentID/
     ├── index.md
     └── desktop-yournameorstudentid.jpg (all in lowercase)
@@ -227,7 +227,7 @@ YourNameOrStudentID/
 For example, if you choose the folder name `MattLee`:
 
 ```
-A01-DesktopMuseem/
+A01-DesktopMuseum/
 └── MattLee/
     ├── index.md
     └── desktop-mattlee.jpg
@@ -251,7 +251,7 @@ If everything looks good, it's time to submit your work!
 
 There are two recommended methods. **Method A is the easiest for beginners**, because you can do everything in your browser without installing Git or using the terminal.
 
-### Method A — GitHub website (recommended for beginners)
+### Method A — GitHub website (RECOMMENDED for beginners)
 
 You will use your browser to create a fork, upload your files, and open a Pull Request.
 
@@ -291,10 +291,10 @@ In your fork, open the branch selector, which normally shows `main`.
 Create a new branch for your contribution. For example:
 
 ```
-add-alice-desktop
+add-mattlee-desktop
 ```
 
-Replace `alice` with your chosen identifier.
+Replace `mattlee` with your chosen identifier.
 
 ![](Attachments/create-new-branch.png)
 
@@ -307,12 +307,16 @@ A branch is simply a separate place to prepare your work. You don't need to unde
 In your fork, navigate to:
 
 ```
-docs/Activities/A01-DesktopMuseem/
+docs/Activities/A01-DesktopMuseum/
 ```
+
+![](Attachments/chek-path-1.png)
 
 #### A5. Create your Markdown file
 
-Inside `A01-DesktopMuseem/`, use **Add file → Create new file**.
+Inside `A01-DesktopMuseum/`, use **Add file → Create new file**.
+
+![](Attachments/add-file.png)
 
 In the filename field, enter your folder name and filename together. For example:
 
@@ -320,17 +324,23 @@ In the filename field, enter your folder name and filename together. For example
 MattLee/index.md
 ```
 
+![](Attachments/check-path-2.png)
+
 GitHub will create the nested folder automatically when you commit the file.
 
 Paste your completed Markdown content into the editor.
 
-At the bottom of the page, enter a commit message:
+![](Attachments/add-md-content.png)
+
+Then click the green "Commit changes..." button, enter a commit message like this:
 
 ```
 add mattlee desktop contribution
 ```
 
 Choose the option to commit directly to your new branch, then commit the file.
+
+![](Attachments/commit.png)
 
 Your folder now exists in your fork.
 
@@ -339,15 +349,17 @@ Your folder now exists in your fork.
 Return to the directory you just created:
 
 ```
-docs/Activities/A01-DesktopMuseem/MattLee/
+docs/Activities/A01-DesktopMuseum/MattLee/
 ```
 
 Choose **Add file → Upload files**.
 
+![](Attachments/upload.png)
+
 Upload your image, for example:
 
 ```
-mattlee-desktop.jpg
+desktop-mattlee.jpg
 ```
 
 Commit the upload to the same branch you used in the previous step.
@@ -364,9 +376,10 @@ Replace `MattLee` with your own folder name.
 
 #### A7. Create a Pull Request
 
-Open your fork's main page. GitHub may display a **Compare & pull request** button after you push or commit a branch.
+Open your fork's main page. GitHub may display a **Contribute** button after you push or commit a branch.
 
-If you don't see it, open the **Pull requests** tab and select **New pull request**. Make sure you are comparing your branch against the original repository.
+![](Attachments/open-pr.png)
+
 
 Check these settings carefully:
 
@@ -393,12 +406,16 @@ You can use this description:
 I have added my desktop picture and comments.
 
 Contribution folder:
-docs/Activities/A01-DesktopMuseem/MattLee/
+docs/Activities/A01-DesktopMuseum/MattLee/
 ```
 
 Click **Create pull request**.
 
+![](Attachments/edit-pr.png)
+
 Congratulations! Your contribution has been submitted.
+
+![](Attachments/after-pr.png)
 
 The organiser can now review your changes and merge them into the class repository.
 
@@ -441,7 +458,7 @@ Open the local repository folder on your computer.
 Navigate to:
 
 ```
-docs/Activities/A01-DesktopMuseem/
+docs/Activities/A01-DesktopMuseum/
 ```
 
 Create your personal folder and put the two files inside it:
@@ -491,8 +508,8 @@ After submitting your PR, open it on GitHub and check the **Files changed** tab.
 You should see your own two files:
 
 ```
-docs/Activities/A01-DesktopMuseem/MattLee/index.md
-docs/Activities/A01-DesktopMuseem/MattLee/mattlee-desktop.jpg
+docs/Activities/A01-DesktopMuseum/MattLee/index.md
+docs/Activities/A01-DesktopMuseum/MattLee/desktop-mattlee.jpg
 ```
 
 If you need to correct something, you can update the same branch. The existing Pull Request will include the new commit automatically.
