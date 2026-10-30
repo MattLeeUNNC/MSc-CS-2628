@@ -4,7 +4,7 @@ categories:
 abbr:
 aliases:
 code: COMP4129
-url:
+url: /
 universities:
   - "[University of Nottingham Ningbo China](University%20of%20Nottingham%20Ningbo%20China.md)"
 school: School of Computer Science
