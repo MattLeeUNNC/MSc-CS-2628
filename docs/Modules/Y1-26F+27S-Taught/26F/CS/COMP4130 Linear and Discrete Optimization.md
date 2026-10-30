@@ -2,10 +2,8 @@
 categories:
   - "[Courses](../../../../../../Categories/Courses.md)"
   - "[Software](../../../../../../Categories/Software.md)"
-abbr: LDO
 aliases:
   - LDO
-  - OR
 code: COMP4130
 url:
 universities:
